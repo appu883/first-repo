@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-### this is sum of n numers#
+### this is sum of n numers##
 
 
 sum=0
