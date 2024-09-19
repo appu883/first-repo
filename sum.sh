@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# this is sum of n numers:wq!
+
 sum=0
 for i in $*
 do
